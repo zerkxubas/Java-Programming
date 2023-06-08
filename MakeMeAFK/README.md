@@ -1,4 +1,4 @@
-										## MakeMeAFK
+## MakeMeAFK
 
 MakeMeAFK is a simple Java program that keeps your computer and online gaming session active by moving the mouse cursor slightly at regular intervals. It can be used to prevent the computer from entering sleep mode or triggering other idle actions.
 
